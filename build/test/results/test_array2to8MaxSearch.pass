@@ -1,0 +1,42 @@
+---
+:source:
+  :path: test
+  :file: test_array2to8MaxSearch.c
+:successes:
+- :test: test_posArray_searchIndexMaxWThreshold
+  :line: 15
+  :message: ''
+  :unity_test_time: 0
+- :test: test_nullArray_searchIndexMaxWThreshold
+  :line: 41
+  :message: ''
+  :unity_test_time: 0
+- :test: test_overThreshold_searchIndexMaxWThreshold
+  :line: 68
+  :message: ''
+  :unity_test_time: 0
+- :test: test_overSize_searchIndexMaxWThreshold
+  :line: 94
+  :message: ''
+  :unity_test_time: 0
+- :test: test_underSize_searchIndexMaxWThreshold
+  :line: 105
+  :message: ''
+  :unity_test_time: 0
+- :test: test_nullTargerPointer_searchIndexMaxWThreshold
+  :line: 116
+  :message: ''
+  :unity_test_time: 0
+- :test: test_nullAnswerPointer_searchIndexMaxWThreshold
+  :line: 127
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 7
+  :passed: 7
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.050979049992747605

@@ -1,0 +1,22 @@
+---
+:source:
+  :path: test
+  :file: test_calc.c
+:successes:
+- :test: test_pos_searchIndexMaxWThreshold
+  :line: 15
+  :message: ''
+  :unity_test_time: 0
+- :test: test_null_searchIndexMaxWThreshold
+  :line: 38
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 2
+  :passed: 2
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.029592965000119875
